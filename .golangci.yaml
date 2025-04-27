@@ -39,3 +39,4 @@ severity:
         - goimports
         - intrange
       severity: info
+
